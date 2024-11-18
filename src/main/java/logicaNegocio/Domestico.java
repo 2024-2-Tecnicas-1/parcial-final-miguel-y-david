@@ -1,5 +1,9 @@
 package logicaNegocio;
 
-public interface Domestico {
-    // TODO: Aquí va tu código
+public interface Domestico
+{
+    
+    public abstract String interactuarConHumano();
+
+ 
 }
